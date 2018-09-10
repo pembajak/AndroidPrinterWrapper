@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrinterWrapper</string>
+
+    <string-array name="supportedPrinter">
+        <item>{"productName":"Detects",
+                "bluetoothClass":"12345",
+                "bluetoothMayorDeviceClass":"12345",
+                "className":"com.babbicool.printerwrapper.example.DetectImpl"}</item>
+    </string-array>
+</resources>
